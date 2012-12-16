@@ -10,7 +10,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#ECECEC</string>
+                <string>#FFFFFF</string>
                 <key>caret</key>
                 <string>#00bdff</string>
                 <key>foreground</key>
@@ -561,7 +561,7 @@
                 <key>foreground</key>
                 <string>#333333</string>
                 <key>background</key>
-                <string>#DDDDDD00</string>
+                <string>#FFFFFF</string>
             </dict>
         </dict>
         <dict>
@@ -572,9 +572,9 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#AAAAAA</string>
+                <string>#CCCCCC</string>
                 <key>background</key>
-                <string>#EEEEEE00</string>
+                <string>#FFFFF</string>
             </dict>
         </dict>
         <dict>
@@ -587,7 +587,7 @@
                 <key>foreground</key>
                 <string>#666666</string>
                 <key>background</key>
-                <string>#EEEEEE00</string>
+                <string>#FFFFFF</string>
             </dict>
         </dict>
         <dict>
@@ -685,9 +685,11 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#E8E8E8</string>
+                <string>#FFFFFF</string>
                 <key>foreground</key>
-                <string>#AAAAAA</string>
+                <string>#6EB8FF</string>
+                <key>fontStyle</key>
+                <string>underline</string>
             </dict>
         </dict>
         <dict>
@@ -771,7 +773,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#777777</string>
+                <string>#AAAAAA</string>
             </dict>
         </dict>
         <dict>
@@ -782,7 +784,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#aaaaaa</string>
+                <string>#CCCCCC</string>
             </dict>
         </dict>
         <dict>
